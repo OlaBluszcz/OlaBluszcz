@@ -1,7 +1,5 @@
 ## Hej wszystkim 👋
 
-**OlaBluszcz/OlaBluszcz**
-
 👩‍💻 Studentka Informatyki i Ekonometrii | Uniwersytet Gdański | Specjalność: Aplikacje Informatyczne w Biznesie
 📚 Aktualnie studiuję na 2. roku, łącząc pasję do technologii z analizą danych i rozwiązaniami biznesowymi.
 💡 Interesuję się programowaniem, automatyzacją procesów oraz analizą danych.
